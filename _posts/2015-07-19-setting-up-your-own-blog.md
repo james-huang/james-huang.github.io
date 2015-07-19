@@ -3,7 +3,7 @@ layout:     post
 title:      Setting up your own blog
 date:       2015-07-19
 summary:    Get your own free, open-source, customizable Medium.com alternative up and running in an hour.
-categories: engineering
+categories: programming
 ---
 
 Do you like this blog? Do you want to start your own?
