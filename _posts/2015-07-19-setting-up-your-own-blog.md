@@ -14,7 +14,7 @@ I have always wanted to start a blog, and was looking for something with the fol
 * **Open:** I wanted complete control, so Medium and Svbtle were out.
 * **Easy:** I didn't want to spend too much time pixel pushing
 
-For the longest time I assumed if I had fine-grain control it would mean self hosting(not free) and fiddling with pixels(takes time). A couple weeks ago I came across the combination of [GitHub Pages](https://pages.github.com/) and [Jekyll](http://jekyllrb.com/) which would allow me to run a fully customizable static site for free off of GitHub!
+For the longest time I assumed if I had fine-grain control it would mean self hosting(not free) and fiddling with pixels(takes time). A couple weeks ago I came across the combination of [GitHub Pages](https://pages.github.com/) and [Jekyll](http://jekyllrb.com/) which would allow me to run a fully customizable static site for free off of GitHub! Is there any blogging platform that puts your posts under a version control system as beautiful as git?
 
 In the spirit of sharing and to save everyone a bunch of time, I've tried to document what I've done to get this site up and running on OSX.
 
