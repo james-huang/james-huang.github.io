@@ -2,7 +2,7 @@
 layout:     post
 title:      Setting up your own blog
 date:       2015-07-19
-summary:    Get your own free, open-source, customizable Medium.com alternative up and running in an hour.
+summary:    Get a free, beautiful, open-source blog up and running in an hour
 categories: programming
 ---
 
