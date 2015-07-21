@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "http://growthalytics.com/"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-64680723-1
 
 # Optional features
 animated:           false
