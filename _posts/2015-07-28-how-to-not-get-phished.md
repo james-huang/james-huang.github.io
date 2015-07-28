@@ -28,7 +28,7 @@ Anyways, here I am with all this important information to protect and everyone e
 
 ![Protectmyid information request](/images/2015-07-28-how-to-not-get-phished/identity-theft-protection.png)
 
-It is hard to distinguish legitimate requests for your sensitive information with phishing scams. I know for a fact that the above request was legitimate; because someone I know told me *in person* about this identity theft protection tool right before I got his email. I still felt weird giving up my social security number.
+It is hard to distinguish legitimate requests for your sensitive information with phishing scams. The above request was legitimate because someone I know told me *in person* about sending me this identity theft protection tool right before I got the email. I still felt weird giving up my social security number.
 
 Remember: anyone can slap images of logos and locks and certifications onto their website.
 
@@ -81,5 +81,5 @@ I get that web services need a unique way to identify who I am. Why can’t you 
 
 [^credit]: If practice makes perfect then I am perfect at calling Chase to cancel my credit cards by now.
 [^webcomic]: I get mad at having to use a symbol and a number and a capital letter because a [webcomic](https://xkcd.com/936/) once told me I didn’t need to.
-[^makeup]: The only other equal waste of my time was probably when I was 7 years old and first asked to sign something, and upon realizing I didn’t have a signature, ran home and practiced writing my name in as messy and as unique a way as I could. The result is so messy that it could really be anyone’s signature, and is so unique that I cannot to this day come up with a pair of reasonably similar reproductions.
+[^makeup]: The only other equal waste of my time was probably when I was 7 years old and first asked to sign something, and upon realizing I didn’t have a signature, ran home and practiced writing my name in as messy and as unique a way as I could. The result is so messy that it could really be anyone’s signature, and is so unique that to this day I cannot come up with a pair of reasonably similar reproductions.
 [^username]: If you are in charge of a company's registration, here is another thing to consider: less boxes to fill in equals more users.
