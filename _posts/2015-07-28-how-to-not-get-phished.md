@@ -30,12 +30,14 @@ Anyways, here I am with all this important information to protect and everyone e
 
 It is hard to distinguish legitimate requests for your sensitive information with phishing scams. The above request was legitimate because someone I know told me *in person* about sending me this identity theft protection tool right before I got the email. I still felt weird giving up my social security number.
 
-Remember: anyone can slap images of logos and locks and certifications onto their website.
+__Remember:__ anyone can slap images of logos and locks and certifications onto their website.
 
 
 ## What does a phishing request look like?
 
 I get an e-mail like this, and I don’t think much of it because I get a lot of confirmation emails about logging from different places or devices. I also recently signed up for a youtube partner account so I go ahead and click the link.
+
+__Remember:__ anyone can spoof a sender email address.
 
 ![Phising email](/images/2015-07-28-how-to-not-get-phished/phish-1.png){: style="border:1px solid gray"}
 
