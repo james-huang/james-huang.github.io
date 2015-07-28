@@ -35,7 +35,7 @@ __Remember:__ anyone can slap images of logos and locks and certifications onto 
 
 ## What does a phishing request look like?
 
-I get an e-mail like this, and I don’t think much of it because I get a lot of confirmation emails about logging from different places or devices. I also recently signed up for a youtube partner account so I go ahead and click the link.
+I get the e-mail bellow, and I don’t think much of it because I get a lot of confirmation emails about logging from different places or devices. I also recently signed up for a youtube partner account so I click the link.
 
 __Remember:__ anyone can spoof a sender email address.
 
@@ -72,7 +72,7 @@ Go ahead and use ‘password1’ for both your neopets and reddit account. You d
 
 ### 3. Enable 2 factor authentication
 
-2-factor authentication meant that some hacker who had my password for a brief moment in time was not able to get into my account because if they tried to log into my Gmail, Google would ask them for a second pin that could only be accessed from my phone.
+My 2-factor authentication meant that the naughty person who had my password for a brief moment in time could not get into my account because Google would ask them for a second pin that is only accessable from my phone.
 
 ### 4. Stop asking me to create a username
 
