@@ -13,7 +13,7 @@ categories: security programming
 >Which url will let you buy computer games and which will steal your credit card number?
 
 ## What is a Phishing?
-Phishing is when someone tricks you into giving them your private information, which might include: credit cards, passwords, or your social security number. The trickiest phishers will mimick websites that you normally use to get your secrets.
+Phishing is when someone tricks you into giving them your private information, which might include: credit cards, passwords, or social security numbers. The trickiest phishers will mimick websites that you normally use to get your secrets.
 
 Your social security number and your credit card numbers are annoying to protect because you need to give them out in order to do things like purchasing books or renewing a driver’s license[^credit].
 Passwords are also very annoying because you need to create different passwords for different services and they have different rules like there needs to be at least 8 characters and at least 1 symbol and at least 1 number and at least 1 capital letter[^webcomic] and sometimes services won’t support symbols and sometimes they will complain if you put more than 3 sequential numbers in a row and other times it will make your password case insensitive (I’m looking at you Charles Schwab).
