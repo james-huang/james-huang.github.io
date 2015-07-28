@@ -76,7 +76,7 @@ My 2-factor authentication meant that the naughty person who had my password for
 
 ### 4. Stop asking me to create a username
 
-I get that web services need a unique way to identify who I am. Why can’t you just use my e-mail?  I have too many passwords to remember already, please don’t make me have to remember a bunch of usernames too. [^username]
+Not actually relevant to phishing, but I hate web services that don't use my e-mail as a username. I have too many passwords to remember already, please don’t make me have to remember a bunch of usernames too. [^username]
 
 
 <br/><br/><br/><br/>
