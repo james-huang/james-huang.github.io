@@ -6,31 +6,34 @@ summary:    How a (self-proclaimed) seasoned veteran computer expert got phished
 categories: security programming
 ---
 
+>* [http://store.steampowered.com/app/287540/](http://store.steampowered.com/app/287540/)
+>* <span class="blue">http://store.steempowered.com/app/287540/</span>
+>* <span class="blue">http://store.steampowared.com/app/287540/</span>
+>
+>Which url will let you buy computer games and which will steal your credit card number?
 
 ## What is a Phishing?
-
-Phishing is when someone tries to trick you into given them some of your private information, which might include: credit cards, passwords, your social security number. If you have the mindset of “phishing won’t happen to me I am too smart for that nonsense”, think again . It happened to me, so it can happen to you too.
+Phishing is when someone tricks you into giving them your private information, which might include: credit cards, passwords, or your social security number. The trickiest phishers will mimick websites that you normally use to get your secrets.
 
 Your social security number and your credit card numbers are annoying to protect because you need to give them out in order to do things like purchasing books or renewing a driver’s license[^credit].
 Passwords are also very annoying because you need to create different passwords for different services and they have different rules like there needs to be at least 8 characters and at least 1 symbol and at least 1 number and at least 1 capital letter[^webcomic] and sometimes services won’t support symbols and sometimes they will complain if you put more than 3 sequential numbers in a row and other times it will make your password case insensitive (I’m looking at you Charles Schwab).
 
-This one time I registered an account(Newsflare) and they emailed me my password in plain text. This worries me because web services are supposed to [salt](https://en.wikipedia.org/wiki/Salt_(cryptography)) and [hash](https://en.wikipedia.org/wiki/Hash_function) your password, dropping the plaintext version as soon as they can.
+This one time I registered an account (Newsflare) and they emailed me my password in plain text. This worries me because web services are supposed to [salt](https://en.wikipedia.org/wiki/Salt_(cryptography)) and [hash](https://en.wikipedia.org/wiki/Hash_function) your password, dropping the plaintext version as soon as they can.
 
 Anyways, here I am with all this important information to protect and everyone else is making my life difficult.
 
 
 
-## What does a regular request look like?
+## What does a regular information request look like?
 
 ![Protectmyid information request](/images/2015-07-28-how-to-not-get-phished/identity-theft-protection.png)
 
-It is hard to distinguish legitimate requests for your sensitive information with the phishing scams. I know for a fact that the above request was legitimate; because someone I know told me *in person* about this identity theft protection tool right before I got his email. I still felt weird giving up my social security number.
+It is hard to distinguish legitimate requests for your sensitive information with phishing scams. I know for a fact that the above request was legitimate; because someone I know told me *in person* about this identity theft protection tool right before I got his email. I still felt weird giving up my social security number.
 
 Remember: anyone can slap images of logos and locks and certifications onto their website.
 
 
-
-## What does a phish look like?
+## What does a phishing request look like?
 
 I get an e-mail like this, and I don’t think much of it because I get a lot of confirmation emails about logging from different places or devices. I also recently signed up for a youtube partner account so I go ahead and click the link.
 
@@ -60,23 +63,16 @@ I go back to the previous page to put in my email and a bad password: it doesn't
 
 ### 1. Constant Vigilance
 
-Don't slip up like I did. Always listen to your suspicious spidey senses.
+Look at your domain name before entering any sensitive information.
 
-### 2. Look at your domain name before entering sensitive information
-* [http://store.steampowered.com/app/287540/](http://store.steampowered.com/app/287540/)
-* <span class="blue">http://store.steempowered.com/app/287540/</span>
-* <span class="blue">http://store.steampowared.com/app/287540/</span>
-
-Which url will let you buy computer games and which will steal your credit card number?
-
-### 3. Keep your email password unique
+### 2. Keep your email password unique
 Go ahead and use ‘password1’ for both your neopets and reddit account. You don’t care if anyone hacks them and nobody is trying to hack them anyways. On the other hand, email is a gatekeeper to everything important. If you forget a password to another service it will email you a unique link to reset it. If someone compromises your email they have access to everything and you will lose *a lot* of money. By the way, if you are getting email on your phone, put a password on it.
 
-### 4. Enable 2 factor authentication
+### 3. Enable 2 factor authentication
 
 2-factor authentication meant that some hacker who had my password for a brief moment in time was not able to get into my account because if they tried to log into my Gmail, Google would ask them for a second pin that could only be accessed from my phone.
 
-### 5. Stop asking me to create a username
+### 4. Stop asking me to create a username
 
 I get that web services need a unique way to identify who I am. Why can’t you just use my e-mail?  I have too many passwords to remember already, please don’t make me have to remember a bunch of usernames too. [^username]
 
