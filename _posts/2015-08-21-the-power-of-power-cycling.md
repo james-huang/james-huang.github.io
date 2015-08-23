@@ -2,7 +2,7 @@
 layout:     post
 title:      The Power of Power Cycling
 date:       2015-08-21
-summary:    One of three steps in becoming a troubleshooting guru.
+summary:    One of three easy steps in becoming a troubleshooting guru.
 categories: troubleshooting programming
 ---
 
