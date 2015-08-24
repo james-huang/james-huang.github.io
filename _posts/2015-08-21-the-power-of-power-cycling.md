@@ -41,7 +41,7 @@ Even though I learned to restart a frozen computer at a young age, it took me a 
 
 ### Case Study 1
 
-When a computer program freezes I quit it and restart it. When my computer freezes, I turn it off and turn it back on. When my internet stops working, I turn my wifi router off and back on. I turn my network adapter off and back on. I set my DNS servers to Google. If they are already Google, I set them to OpenDNS. This fixes all problems except Comcast. Sometimes Comcast is the problem.
+When a computer program freezes, I quit it and restart it. When my computer freezes, I turn it off and turn it back on. When my internet stops working, I turn my wifi router off and back on. I turn my network adapter off and back on. I set my DNS servers to Google. If they are already Google, I set them to OpenDNS. This fixes all problems except Comcast. Sometimes Comcast is the problem.
 
 __Conjecture 1__: Power cycle your computer. Power cycle your computer programs. Power cycle your internets.
 
