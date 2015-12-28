@@ -59,7 +59,11 @@ People don’t want to watch you snowboarding for more than 2 seconds at a time.
 
 When you are done, you should have a video that is less than 3 minutes long. If it is longer, go back and cut it down some more. A scuba-diving guy tied a GoPro to a hammerhead shark and that only needed 5 seconds[^sharkclip]. If you think you can keep your friends and family entertained for more than 3 minutes in the age of pocket computers you are mistaken.
 
-After your first couple videos, you will get faster at video editing and you should be able to sit down and compile a video of the day's events after dinner. Remeber: when you are done editing wipe your SD card for your next video. No hoarding.
+After your first couple videos, you will get faster at video editing and you should be able to sit down and compile a video of the day's events after dinner. Remeber: when you are done editing wipe your SD card for your next video.
+
+Short clips.
+
+No hoarding.
 
 ---------------
 
