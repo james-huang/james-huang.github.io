@@ -6,7 +6,7 @@ summary:    You probably own one and aren't putting it to good use
 categories: lifestyle
 ---
 
-I have had a GoPro for about a year. I’ve noticed that many people who own GoPros don’t use them often (or very well). This christmas, after seeing more people I know get them I’ve decided to write up my learnings from using a GoPro.
+I have had a GoPro for about a year. I’ve noticed that many people who own GoPros don’t use them often (or very well). This Christmas, after seeing more people I know get them I’ve decided to write up my learnings from using a GoPro.
 
 
 
