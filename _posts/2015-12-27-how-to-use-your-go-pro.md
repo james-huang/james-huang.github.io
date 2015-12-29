@@ -13,7 +13,7 @@ I have had a GoPro for about a year. I’ve noticed that many people who own GoP
 ## Accessories
 
 {:.center}
-![GoPro Accessories](/images/2015-12-27-how-to-use-your-go-pro/gopro_acessories.png)
+![GoPro Accessories](/images/2015-12-27-how-to-use-your-go-pro/gopro_acessories.jpg)
 
 I own the following accessories:
 
@@ -31,12 +31,12 @@ I own the following accessories:
 There are 2 kinds of photos a person will take. The first kind is the artsy kind. Maybe you have a fancy DSLR camera and you jack up the aperture to blur the background or turn on HDR for some extra contrast. The second kind has people you know in it. It is a warm and fuzzy memory of something that happened so you don’t really care about framing or exposure. If you are an insufferable hobbyist photographer you’ll probably try to do both in the same picture. [^photographer]
 
 {:.center}
-![GoPro Accessories](/images/2015-12-27-how-to-use-your-go-pro/person_vs_scene.png)
+![GoPro Accessories](/images/2015-12-27-how-to-use-your-go-pro/person_vs_scene.jpg)
 
 Your GoPro is a tool for the second kind of video. It cannot compete with DSLRs (or even iPhones) on fps, color, or resolution. However, you can leave it on and use it to capture the cool things you do with friends and family. Most of you will never be “heli-skiing cool” so it’s also okay to just focus on the friends and family thing. I think it's a great idea for dad to strap on a GoPro when the kids are opening christmas presents.
 
 {:.center}
-![GoPro Accessories](/images/2015-12-27-how-to-use-your-go-pro/heliskiing.png)
+![GoPro Accessories](/images/2015-12-27-how-to-use-your-go-pro/heliskiing.jpg)
 
 ## Editing
 
@@ -51,7 +51,7 @@ You will be creating a video collage over music. Your first step is to pick the 
 Before we start adding video, lets take a look at exisiting videos: [GoPro: Best of 2015 (4:55)](https://www.youtube.com/watch?v=IyTv_SR2uUo). Notice that the song covers all footage audio. You can go ahead and mute/drop the audio tracks from all the clips you use.
 
 {:.center}
-![GoPro Accessories](/images/2015-12-27-how-to-use-your-go-pro/snowboard_tricks.png)
+![GoPro Accessories](/images/2015-12-27-how-to-use-your-go-pro/snowboard_tricks.jpg)
 
 Also notice how the average clip length is 0-2 seconds and how there are many shots that are less than 1 second. When you put together all your clips, make sure you are only using 0-2 seconds of every highlight. __Don’t put more__.
 
