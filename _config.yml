@@ -52,7 +52,7 @@ redcarpet:
 permalink:    pretty
 paginate:     10
 sass:
-  compressed: true
+  style: compressed
 gems:
   - jekyll-sitemap
   - jekyll-paginate
