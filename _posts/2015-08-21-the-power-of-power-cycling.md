@@ -114,5 +114,5 @@ __Conjecture 6__: Power cycle your car.
 There it is. I have told you six stories in order to persuade you to turn stuff off and turn it back on. You have leveled up your abilities to debug program, gadget, code, car, and dev-ops problems.
 
 {:.center}
-![Power cycle yo kids, power cycle yo wife](/images/2015-08-21-the-power-of-power-cycling/hide_yo_kids.png)
+![Power cycle yo kids, power cycle yo wife](/images/2015-08-21-the-power-of-power-cycling/hide_yo_kids.jpg)
 

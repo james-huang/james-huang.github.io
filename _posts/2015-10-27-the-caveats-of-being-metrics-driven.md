@@ -24,7 +24,7 @@ I’ve never worked at Groupon so I can only postulate as to how this happened. 
 - __Return customers__ who don’t want to fucking put in their email address again because it will sign them up to 15 different daily mailing distributions. Holy mother of Optimizely just take my money for the pottery classes without spamming me please.
 
 {:.center}
-![Go Pro Push Notification](/images/2015-10-27-the-caveats-of-being-metrics-driven/go_pro_push_notification.png){: style="height: 300px"}
+![Go Pro Push Notification](/images/2015-10-27-the-caveats-of-being-metrics-driven/go_pro_push_notification.jpg){: style="height: 300px"}
 
 <center><small>That push notification was not necessary GoPro</small></center>
 

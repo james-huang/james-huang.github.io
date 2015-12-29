@@ -26,7 +26,7 @@ Anyways, here I am with all this important information to protect and everyone e
 
 ## What does a regular information request look like?
 
-![Protectmyid information request](/images/2015-07-28-how-to-not-get-phished/identity-theft-protection.png)
+![Protectmyid information request](/images/2015-07-28-how-to-not-get-phished/identity-theft-protection.jpg)
 
 It is hard to distinguish legitimate requests for your sensitive information with phishing scams. The above request was legitimate because someone I know told me *in person* about sending me this identity theft protection tool right before I got the email. I still felt weird giving up my social security number.
 
@@ -39,19 +39,19 @@ I get the e-mail bellow, and I don’t think much of it because I get a lot of c
 
 __Remember:__ anyone can spoof a sender email address.
 
-![Phising email](/images/2015-07-28-how-to-not-get-phished/phish-1.png){: style="border:1px solid gray"}
+![Phising email](/images/2015-07-28-how-to-not-get-phished/phish-1.jpg){: style="border:1px solid gray"}
 
 I also don’t think much of the sign in because I have a bunch of different google accounts and I can never keep track of what user Chrome thinks I have swapped to in order to access whatever Google Docs someone has shared.
 
 
-![Phising site page 1](/images/2015-07-28-how-to-not-get-phished/phish-2.png){: style="border:1px solid gray"}
+![Phising site page 1](/images/2015-07-28-how-to-not-get-phished/phish-2.jpg){: style="border:1px solid gray"}
 
 So I put in my email and password and my spidey senses start tingling as soon as I get to the next page. Phone recovery? What is that? Recovery email? Broken anchor tags? What was the host again? WEBSTYLISTE.SG?
 
 
 {:.center}
 <small>http://webstyliste.sg/youtube.com-gmail/support/5ebd5535d0aacd0674d55177be136d9b/E1.htm</small>
-![Phising site page 2](/images/2015-07-28-how-to-not-get-phished/phish-3.png){: style="border:1px solid gray"}
+![Phising site page 2](/images/2015-07-28-how-to-not-get-phished/phish-3.jpg){: style="border:1px solid gray"}
 
 
 <span class="red">Fuck.</span>
