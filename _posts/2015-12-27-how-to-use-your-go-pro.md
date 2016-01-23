@@ -22,7 +22,7 @@ I own the following accessories:
 * Head mount
 * Bike mount
 * Hiking pole (I put the bike mount on it to make a selfie stick)
-* Kayak safely leash (insurance against losing the GoPro)
+* Kayak safety leash (insurance against losing the GoPro)
 * GoPro app (helps aim the GoPro)
 
 
