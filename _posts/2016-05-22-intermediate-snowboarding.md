@@ -20,7 +20,7 @@ Your top priority while snowboarding is to not get hurt. Snowboarding can be dan
 
 ## GEAR TIPS
 
-###Boots
+### Boots
 
 If you don’t like your boots you will have a miserable time on the slopes. Here are the main things to keep in mind when picking out boots in order of importance:
 
@@ -86,7 +86,7 @@ When doing park it is important not to hurt yourself. Park snow is typically pac
 ![Buttering and Pressing](/images/2016-05-22-intermediate-snowboarding/buttering_pressing.gif)
 
 
-###Jumps
+### Jumps
 
 Never overshoot a jump. Overshooting a jump may lead to hospitals. You want to land every jump in control and on your feet, even it it means not clearing a ramp lip. Make sure to check your speed by carving into every jump, but straighten out and set your feet for balance before you take off. As you get comfortable getting air, progress by getting more air, doing 180s, and then 360s .
 
