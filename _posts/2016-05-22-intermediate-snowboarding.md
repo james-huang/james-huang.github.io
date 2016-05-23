@@ -16,7 +16,9 @@ When you initially pick up a hobby you learn and improve fast. At some point, yo
 Your top priority while snowboarding is to not get hurt. Snowboarding can be dangerous, and while you are trying to improve you need to be pushing the limits of what you are comfortable with. It is important to do this gradually as to not end up in the hospital. As shown by the graph above, the only other thing left to do is to put in the time.
 
 
-## == GEAR TIPS ==
+---------------
+
+## GEAR TIPS
 
 ###Boots
 
@@ -42,9 +44,9 @@ If you don’t like your boots you will have a miserable time on the slopes. Her
 
 As an intermediate snowboarder, your bindings and board are not that important. Pick bindings and a board that you think look cool. If you need help narrowing down options, get a pair of ratchet bindings of medium flex. Get a symmetrical/twin snowboard of medium flex. Pick a snowboard with a length between 80-90% of your height.
 
+---------------
 
-
-## == FREERIDING TIPS ==
+## FREERIDING TIPS
 
 On the slopes, the easiest way to hurt yourself is catching an edge. This happens when you accidentally lean onto the edge opposite to the one you are currently carving on, while not going in the direction parallel to the board (“ploughing”). When you catch an edge while ploughing, the entirety of your forward momentum gets transferred into the ground. This will hurt a lot and may cause unintended side effects such as broken collar bones and concussions.
 
@@ -65,7 +67,7 @@ As long as you are carving in a parallel direction to your board, you won’t ca
 ![Snowboard Euro Carving](/images/2016-05-22-intermediate-snowboarding/euro_carving.gif)
 
 
-### MOGUL TIPS
+### Mogul Tips
 
 If you don’t like doing moguls as a snowboarder, it’s probably because you are bad at them. Nobody dislikes doing something that they are good at, so you should push yourself and do more moguls. Doing moguls on a snowboard involves being agile and able to turn fast, jump-turning if necessary .
 
@@ -74,19 +76,14 @@ On softer, powdery snow I typically like to stay in the valleys of the moguls. H
 {:.center}
 ![Mogul path diagram](/images/2016-05-22-intermediate-snowboarding/snowboarding_moguls.jpg){: style="height: 300px"}
 
+---------------
 
+## PARK TIPS
 
-
-## == PARK TIPS ==
-
-When doing park it is important not to hurt yourself. Park snow is typically packed hard so it is important to know how to fall properly. Be ready to fall at all times. When falling forward, stick your forearms out. When falling backward, keep your chin tucked in and roll on your back.
-
-On flatter terrain, you can  practice buttering and pressing.
+When doing park it is important not to hurt yourself. Park snow is typically packed hard so it is important to know how to fall properly. Be ready to fall at all times. When falling forward, stick your forearms out. When falling backward, keep your chin tucked in and roll on your back. On flatter terrain, you can  practice buttering and pressing.
 
 {:.center}
 ![Buttering and Pressing](/images/2016-05-22-intermediate-snowboarding/buttering_pressing.gif)
-
-
 
 
 ###Jumps
@@ -105,9 +102,9 @@ Do them. Remember to keep your balance centered on a box and don't try to turn. 
 ![50 50](/images/2016-05-22-intermediate-snowboarding/50_50.gif)
 
 
+---------------
 
-
-## == CODA ==
+## CODA
 
 The more you do something, the better you will get. Snowboarding is a lifestyle. Just like learning a new language, you are not going to truly achieve mastery without full immersion. Start incorporating words like “gnarly” and “shred” into your vernacular. When you greet people, close your hand into a fist, stick out your pinky and thumb into a shaka sign and shake it (snowboard culture intersects a lot with surf culture). Toss out your Tory Burch wallet and get one from Burton.
 
