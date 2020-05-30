@@ -23,7 +23,7 @@ In the spirit of sharing and to save everyone a bunch of time, I've tried to doc
 
 GitHub is a service for hosting code repositories. You can host public repos here for free. We will be using a GitHub feature to host our new blog.
 
-1. Create a "user or orginization site" by following the instructions [here](https://pages.github.com/).
+1. Create a "user or organization site" by following the instructions [here](https://pages.github.com/).
 2. **DO NOT** set up a "project site".
 3. You can stop after you complete the step "Clone the repository".
 
