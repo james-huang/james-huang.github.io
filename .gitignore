@@ -2,6 +2,12 @@
 _site
 .sass-cache
 .jekyll-metadata
+.jekyll-cache
+Gemfile
+Gemfile.lock
 
 #Mac OSX system files
 .DS_Store
+
+james-huang-github-blog.sublime-project
+james-huang-github-blog.sublime-workspace
