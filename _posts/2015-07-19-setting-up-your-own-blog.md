@@ -34,7 +34,7 @@ GitHub is a service for hosting code repositories. You can host public repos her
 
 1. If you don't have ruby, you can get it [here](https://www.ruby-lang.org/en/downloads/).
 2. If you don't have the gem package manager you can get it [here](https://rubygems.org/pages/download).
-3. Install Jekyll by running ``gem install jekyll``
+3. Install Jekyll by running ``gem install --user-install bundler jekyll`` [insructions](https://jekyllrb.com/docs/installation/).
 
 
 
