@@ -56,28 +56,28 @@ Sublime Text is also simultaneously opinionated but also configurable. It is sim
 Without futhur ado, I present a case study sampling of "Sublime Texts for X".
 
 {:.center}
-![Sublime Text Screenshot](/images/2021-01-02-the-sublime-text-editor-of-x/sublime.png){: style="height: 250px"}<br/>
+![Sublime Text Screenshot](/images/2021-01-02-the-sublime-text-editor-of-x/sublime.png){: style="height: 350px"}<br/>
 <small>The (Eponymous) Sublime Text of Text Editors: [https://www.sublimetext.com/](https://www.sublimetext.com/)
 </small>
 
 {:.center}
-![Fman Product Screenshot](/images/2021-01-02-the-sublime-text-editor-of-x/fman.png){: style="height: 250px"}<br/>
+![Fman Product Screenshot](/images/2021-01-02-the-sublime-text-editor-of-x/fman.png){: style="height: 300px"}<br/>
 <small>The Sublime Text of Finder/File Explorer: [https://fman.io/](https://fman.io/)
 </small>
 
 {:.center}
-![Linear Product Screenshot](/images/2021-01-02-the-sublime-text-editor-of-x/linear.png){: style="height: 250px"}<br/>
+![Linear Product Screenshot](/images/2021-01-02-the-sublime-text-editor-of-x/linear.png){: style="height: 300px"}<br/>
 <small>The Sublime Text of Task/Bug Tracking: [https://linear.app/](https://linear.app/)
 </small>
 
 {:.center}
-![Cron Product Screenshot](/images/2021-01-02-the-sublime-text-editor-of-x/cron.png){: style="height: 270px"}<br/>
+![Cron Product Screenshot](/images/2021-01-02-the-sublime-text-editor-of-x/cron.png){: style="height: 330px"}<br/>
 <small>The Sublime Text of Calendars: [https://cron.app/](https://cron.app/)
 </small>
 
 
 {:.center}
-![Sublime Merge Product Screenshot](/images/2021-01-02-the-sublime-text-editor-of-x/merge.png){: style="height: 250px"}<br/>
+![Sublime Merge Product Screenshot](/images/2021-01-02-the-sublime-text-editor-of-x/merge.png){: style="height: 300px"}<br/>
 <small>The Sublime Text of Git GUI Clients: [https://www.sublimemerge.com/](https://www.sublimemerge.com/)
 </small>
 
@@ -92,7 +92,7 @@ The “Sublime Text of X” is software having the following traits:
 I look forward to a ~~bright~~ dark future where everything can be done fast and efficiently through keyboard shortcuts.
 
 {:.center}
-![Terminal Product Screenshot](/images/2021-01-02-the-sublime-text-editor-of-x/terminal.png){: style="height: 250px"}<br/>
+![Terminal Product Screenshot](/images/2021-01-02-the-sublime-text-editor-of-x/terminal.png){: style="height: 300px"}<br/>
 
 -----
 
