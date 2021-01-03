@@ -1,15 +1,22 @@
 ---
 layout:     post
 title:      The "Sublime Text of X"
-summary:    A product framework for explaining why Superhuman is the Sublime Text for Email.
+summary:    A product framework for explaining why Superhuman is the Sublime Text of Email.
 categories: startups programming product
 ---
 <!-- date:       2021-02-01 -->
 <!-- Why does the date cause the post to not render? -->
 
+<center>
+<small>
+Note: The author has never paid for, is not affiliated with, and is not endorsing Superhuman as a product.
+</small>
+</center>
+
+
 ### Superhuman
 
-Superhuman is an invite-only $30/month email client. People like it for its sleek design, responsive speed, and suite of keyboard shortcuts to improve a user's email efficiency. Superhuman is worth the price for people who spend hours on email every day. Part of its feature offering includes read statuses, which is useful for executives and sales people who like to keep a pulse on their conversations.
+Superhuman is an invite-only $30/month email client. People like it for its sleek design, responsive speed, and suite of keyboard shortcuts to improve a user's email efficiency. People justify this purchase over free alternatives by the fact that they spend hours on email everyday. Part of Superhuman's feature offering includes read statuses, which is useful for executives and sales people who like to keep a pulse on their conversations.
 
 
 {:.center}
@@ -53,7 +60,7 @@ Sublime Text is also simultaneously opinionated but also configurable. It is sim
 
 ### The "Sublime Text of X"
 
-Without futhur ado, I present a case study sampling of "Sublime Texts for X".
+Without futhur ado, I present a case study sampling of "Sublime Texts of X".
 
 {:.center}
 ![Sublime Text Screenshot](/images/2021-01-02-the-sublime-text-editor-of-x/sublime.png){: style="height: 350px"}<br/>
