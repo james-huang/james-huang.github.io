@@ -7,7 +7,7 @@ permalink: /about/
 
 James is an engineer. If you have feedback about this blog you can reach his gmail "hng.jms". More will come here in the future.
 
-If you enjoyed reading this blog, you can go ahead and subscribe to new posts. Realistically speaking this will only happen at most once a month.
+If you enjoyed reading this blog, you can go ahead and subscribe to new posts. Theoretically speaking this will only happen at most once a month. Realistically speaking you will be lucky to get one email a year.
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
