@@ -47,7 +47,7 @@ I present Sublime Text: a piece of software more than a decade older than Superh
   Sublime Text Command Palette: short-cut triggered command search bar
 </small><br/>
 
-Sublime Text is also simultaneously opinionated but also configuraable. It is simple enough for a programmer to install, open, and “hit the ground running” on a big project with a combination of GOTO (⌘+P) and project search (⌘+Shift+F).
+Sublime Text is also simultaneously opinionated but also configurable. It is simple enough for a programmer to install, open, and “hit the ground running” on a big project with a combination of GOTO (⌘+P) and project search (⌘+Shift+F).
 
 -----
 
