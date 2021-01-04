@@ -16,7 +16,7 @@ Note: The author has never paid for, is not affiliated with, and is not endorsin
 
 ### Superhuman
 
-Superhuman is an invite-only $30/month email client. People like it for its sleek design, responsive speed, and suite of keyboard shortcuts to improve a user's email efficiency. People justify this purchase over free alternatives by the fact that they spend hours on email everyday. Part of Superhuman's feature offering includes read statuses, which is useful for executives and sales people who like to keep a pulse on their conversations.
+Superhuman is an invite-only $30/month email client.[^pricing] People like it for its sleek design, responsive speed, and suite of keyboard shortcuts to improve a user's email efficiency. People justify this purchase over free alternatives by the fact that they spend hours on email everyday. Part of Superhuman's feature offering includes read statuses, which is useful for executives and sales people who like to keep a pulse on their conversations.
 
 
 {:.center}
@@ -42,6 +42,13 @@ As identified by Todd Goldberg, the "Superhuman of X" has the following traits:
 </small>
 
 -----
+
+
+<center>
+<small>
+Note: The author has never paid for, is not affiliated with, but likes using Sublime Text as a product.
+</small>
+</center>
 
 ### Sublime Text
 
@@ -96,12 +103,13 @@ The “Sublime Text of X” is software having the following traits:
 - Beautiful and thoughtfully designed.
 - <span style="background-color: #444; color: #FFF">*Not Optional*: &nbsp;Dark mode&nbsp;</span>
 
-I look forward to a ~~bright~~ dark future where everything can be done fast and efficiently through keyboard shortcuts.
+I look forward to a ~~bright~~ dark future where everything can be done fast and efficiently through keyboard shortcuts. If there are other startups or products that give you Sublime Text vibes I would love to know!
 
 {:.center}
 ![Terminal Product Screenshot](/images/2021-01-02-the-sublime-text-editor-of-x/terminal.png){: style="height: 300px"}<br/>
 
 -----
 
+[^pricing]: I've seen a lot of discussion as to whether an email client is worth $30 a month. It is not for me personally, but [here is a link ](http://www.paulgraham.com/ambitious.html) to Paul Graham in 2012 claiming that he is willing to pay $50-$1000 a month for a good email experience.
 [^twitter]: [https://twitter.com/search?q=%40superhuman](https://twitter.com/search?q=%40superhuman)
 [^superhumanofx]:[The "Superhuman of X"](https://toddgoldberg.com/posts/superhuman-of-x-startups.html)
