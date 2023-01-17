@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "http://www.growthalytics.com/"
 
 # Google analytics
-google_analytics: UA-64680723-1
+google_analytics: G-SV88NJPXY5
 
 # Optional features
 animated:           false
@@ -56,3 +56,4 @@ sass:
 gems:
   - jekyll-sitemap
   - jekyll-paginate
+plugins: [jekyll-paginate]
